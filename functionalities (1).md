@@ -124,6 +124,5 @@ Prin separarea clară a rolurilor și gestionarea centralizată a cursurilor, ap
 
 ---
 
-📁 **Fișier:** `functionalities.md`  
-📅 **Versiune:** 1.0  
-✍️ **Autor:** [Nume autor / echipă proiect]
+ 
+TUTA LUCIAN GABRIEL

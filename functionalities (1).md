@@ -46,7 +46,6 @@ Profesorii pot încărca materiale video organizate sub formă de cursuri, iar s
 - Editarea și actualizarea conținutului cursului  
 - Publicarea / dezactivarea unui curs  
 - Ștergerea unui curs  
-- Organizarea lecțiilor pe capitole / module  
 
 ---
 
